@@ -1,0 +1,26 @@
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes.dex : \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/BuildConfig.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R$array.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R$attr.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R$drawable.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R$layout.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R$string.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/example/untitled/R.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/Users/rolandihasz/software_development/repository/HTC_android_2-3-QT_4/android/bin/dexedLibs/annotations-5856de2520b19608e120228686901a68.jar \
